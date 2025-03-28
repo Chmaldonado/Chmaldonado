@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m currently working on projects
+I’m currently learning internet programming languages 
+Ask me about C, C#, and Python
+How to reach me: chris.o.maldonado@gmail.com
 <!--
 **Chmaldonado/Chmaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
